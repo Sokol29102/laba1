@@ -1,0 +1,16 @@
+E:\labs\Lab1\bin\Debug\net8.0-windows\Lab1.exe
+E:\labs\Lab1\bin\Debug\net8.0-windows\Lab1.deps.json
+E:\labs\Lab1\bin\Debug\net8.0-windows\Lab1.runtimeconfig.json
+E:\labs\Lab1\bin\Debug\net8.0-windows\Lab1.dll
+E:\labs\Lab1\bin\Debug\net8.0-windows\Lab1.pdb
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.Form1.resources
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.GenerateResource.cache
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfoInputs.cache
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfo.cs
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.CoreCompileInputs.cache
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.dll
+E:\labs\Lab1\obj\Debug\net8.0-windows\refint\Lab1.dll
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.pdb
+E:\labs\Lab1\obj\Debug\net8.0-windows\Lab1.genruntimeconfig.cache
+E:\labs\Lab1\obj\Debug\net8.0-windows\ref\Lab1.dll
